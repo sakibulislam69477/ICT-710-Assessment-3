@@ -1,0 +1,4 @@
+# GitHub Issues Summary The remaining usability issues were documented as future improvement tasks for the next design sprint. 
+## Issue 1: Add resource format labels Resource cards should display whether the content is an article, video, audio file or PDF guide. This will improve recognition and reduce the need for users to click into each resource. Status: Next sprint  Priority: Medium 
+## Issue 2: Add login error state The login form should include a visible error state for incorrect credentials. This should include a red border, an error icon and clear error message. Status: Next sprint  Priority: Medium
+## Issue 3: Add active navigation indicator The navigation bar should show the user’s current page using an underline, highlight or active colour state. Status: Next sprint  Priority: Low
